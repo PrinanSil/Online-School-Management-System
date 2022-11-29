@@ -53,7 +53,8 @@ Website Accessing Steps
 Credentials for Login into the System
 
 Admin
-Username: admin@example.com 
+Username: admin@example.com
+
 Password: admin@sms
 
 Student
@@ -62,12 +63,15 @@ Password: student@sms
 
 Teacher
 Username: teacher@example.com 
+
 Password: teacher@sms
 
 Staff
 Username: staff@example.com 
+
 Password: staff@sms
 
 Parent
-Username: parent@example.com 
+Username: parent@example.com
+
 Password: parent@sms
