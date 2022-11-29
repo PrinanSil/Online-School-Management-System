@@ -50,6 +50,7 @@ Website Accessing Steps
 7. Run the script http://localhost/Online School Management System(frontend)
 
 
+
 Credentials for Login into the System
 
 ADMIN
