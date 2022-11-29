@@ -52,32 +52,32 @@ Website Accessing Steps
 
 Credentials for Login into the System
 
-Admin
+ADMIN
 
-Username: admin@example.com
+Username:   admin@example.com
 
-Password: admin@sms
+Password:   admin@sms
 
-Student
+STUDENT
 
-Username: student@example.com
+Username:  student@example.com
 
-Password: student@sms
+Password:  student@sms
 
-Teacher
+TEACHER
 
-Username: teacher@example.com 
+Username:  teacher@example.com 
 
-Password: teacher@sms
+Password:  teacher@sms
 
-Staff
+STAFF
 
-Username: staff@example.com 
+Username:  staff@example.com 
 
-Password: staff@sms
+Password:  staff@sms
 
-Parent
+PARENT
 
-Username: parent@example.com
+Username:  parent@example.com
 
-Password: parent@sms
+Password:  parent@sms
