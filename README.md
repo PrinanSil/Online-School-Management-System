@@ -3,7 +3,8 @@ The project “Online School Management System” is developed to organize, auto
 
 Online School Management System is online website with modules containing student,teacher,admin,parent,staffs.
 
-SOURCE CODE LINK: https://ticollege-my.sharepoint.com/:f:/g/personal/prinan_120108_ticollege_org/Em0T88YHtB5KvQ7q9r2a_tkB-xb0YPhvpFFDA0pEiMlI3Q?e=lSbZWe
+SOURCE CODE LINK:
+https://ticollege-my.sharepoint.com/:f:/g/personal/prinan_120108_ticollege_org/Em0T88YHtB5KvQ7q9r2a_tkB-xb0YPhvpFFDA0pEiMlI3Q?e=lSbZWe
 
 LIVE VIEW LINK: https://osms-2002.000webhostapp.com
 
