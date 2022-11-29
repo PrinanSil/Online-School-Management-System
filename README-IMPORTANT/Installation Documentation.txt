@@ -1,0 +1,33 @@
+Xampp Download
+
+* To Download Xampp: https://www.apachefriends.org/download.html
+
+1. Install by keeping all options default.
+
+2. In your dicrectory locate xampp folder and find xampp-control application 
+
+3. Click on the application and start the Apache and MySQL server
+
+4. After This follow the below steps
+
+
+Website Accessing Steps
+
+1. Download the zip file
+
+2. Extract the file and copy School Management System folder
+
+3. Paste inside root directory(for xampp xampp/htdocs)
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Create a database with name osms_project
+
+6. Import osms_project.sql file(given inside the zip package in Database folder)
+
+7. Run the script http://localhost/School Management System(frontend)
+
+
+For Direct Accessing
+
+link: https://osms-2002.000webhostapp.com

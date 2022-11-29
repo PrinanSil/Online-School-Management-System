@@ -1,0 +1,18 @@
+Online School Management System is online website with modules containing
+student,teacher,admin,parent,staffs.
+
+SOURCE CODE LINK: https://ticollege-my.sharepoint.com/:f:/g/personal/prinan_120108_ticollege_org/Em0T88YHtB5KvQ7q9r2a_tkB-xb0YPhvpFFDA0pEiMlI3Q?e=5hYjj2
+(Later Github Link will be added)
+LIVE VIEW LINK: https://osms-2002.000webhostapp.com
+
+This Functional website is built on:
+
+Front-end: Html5, Css3, Bootstrap4, jquery
+Database: MySQL and Firebase
+Backend: PHP and Javascript 
+
+Special Thanks
+1. Fontawesome, AdminLTE css and js plugins for frontend Look and feel
+2. Bootstrap and Firebase-PHP docs
+3. Youtube and w3Schools
+4. Friends
