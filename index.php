@@ -289,7 +289,7 @@
                 </div>
                 <div class="text-center mt-n2">
                     <img src="./assets/images/avatar.webp" alt="" class="rounded-circle border" width="100" height="100">
-                    <h6 class="mb-0 font-weight-bold">Soumili</h6>
+                    <h6 class="mb-0 font-weight-bold">Srimonti</h6>
                     <p><i>Head Girl</i></p>
                 </div>
             </div>
